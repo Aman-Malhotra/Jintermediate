@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=A34()
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=event
+comment2.target=void\ hyperlinkUpdate(javax.swing.event.HyperlinkEvent)
+comment3.params=userText
+comment3.target=void\ loadCrap(java.lang.String)
+numComments=4

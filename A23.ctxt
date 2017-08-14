@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paintComponent(java.awt.Graphics)
+comment1.params=newD
+comment1.target=void\ setD(int)
+comment2.params=
+comment2.target=java.awt.Dimension\ getPreferredSize()
+comment3.params=
+comment3.target=java.awt.Dimension\ getMinimumSize()
+numComments=4

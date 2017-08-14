@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=A24()
+comment1.params=e
+comment1.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+numComments=2
